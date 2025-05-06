@@ -1,6 +1,6 @@
 # qrscanner
 
-simple cli to scan qrcode from clipboard, stdin and file. (for my personal use).
+simple cli to decode qrcode from clipboard, stdin and file. (for my personal use).
 
 
 # To compile
